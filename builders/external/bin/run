@@ -1,0 +1,8 @@
+#!/bin/bash
+
+#
+# SPDX-License-Identifier: Apache-2.0
+#
+set -xeuo pipefail
+exec 1>&2
+# Do nothing; the chaincode is running as a service
