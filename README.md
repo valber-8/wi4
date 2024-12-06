@@ -127,5 +127,7 @@ The configuration is a JSON object with the following keys:
 
 Apache-2.0
 
-## Author Information
+## Acknowlegements
+
+This work was supported by the Russian Science Foundation and the Government of the Arkhangelsk Region, project No. 22-11-20025.
 
